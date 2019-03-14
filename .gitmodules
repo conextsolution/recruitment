@@ -7,3 +7,8 @@
 	path = conextsolution/ConextSolution
 	url = git@github.com:conextsolution/ConextSolution.git
 	branch = master_prod
+
+[submodule "conextsolution/Marketing"]
+	path = conextsolution/Marketing
+	url = git@github.com:conextsolution/Marketing.git
+	branch = demo_marketing
